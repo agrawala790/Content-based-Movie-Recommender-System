@@ -14,8 +14,9 @@ Tasks I have performed :-
 5. Based on both similarity and average rating I found that how much a user is interested in a particular movie. 
 6. Finally, I recommended the most relevant movies to the users according to their interests.
 
-Skills & Technologies used :- 
-Core & Advance Java, J2EE, JSP, JDBC, MySQL, Apache Tomcat, NetBeans, XAMPP Server.
+Skills & Technologies used : 
+- Core & Advance Java, J2EE, JSP, JDBC, MySQL, Apache Tomcat, NetBeans, XAMPP Server.
 
 Pros - Time efficient, better recommendations, compatible with large datasets. 
+
 Cons - Needs regular maintainence/ optization due to changing user's requirements and interests. 
