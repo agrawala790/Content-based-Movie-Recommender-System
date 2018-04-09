@@ -18,4 +18,4 @@ Skills & Technologies used :-
 Core & Advance Java, J2EE, JSP, JDBC, MySQL, Apache Tomcat, NetBeans, XAMPP Server.
 
 Pros - Time efficient, better recommendations, compatible with large datasets. 
-Cons - Needs regular maintainence/ optization due to changing user's requirements and interests.
+Cons - Needs regular maintainence/ optization due to changing user's requirements and interests. 
