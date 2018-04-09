@@ -14,7 +14,7 @@ Tasks I have performed :-
 5. Based on both similarity and average rating I found that how much a user is interested in a particular movie. 
 6. Finally, I recommended the most relevant movies to the users according to their interests.
 
-Skills & Technologies used : 
+Skills & Technologies used :-
 - Core & Advance Java, J2EE, JSP, JDBC, MySQL, Apache Tomcat, NetBeans, XAMPP Server.
 
 
