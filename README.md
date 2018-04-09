@@ -20,4 +20,4 @@ Skills & Technologies used :-
 
 Pros - Time efficient, better recommendations, compatible with large datasets. 
 
-Cons - Needs regular maintainence/ optization due to changing user's requirements and interests. 
+Cons - Needs regular maintenance/ optimization due to changing user's requirements and interests.
