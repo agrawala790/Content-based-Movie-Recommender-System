@@ -1,0 +1,2 @@
+# Content-based-Movie-Recommender-System
+1. Analysed users views and listed the functional requirements. 2. Created the profile of users based on the their ratings and genres of movies.  3. Computed the similarities between user profile and movie profile using Cosine Similarity Algorithm.  4. Based on the similarities I found that how frequently a user is interested in a particular movie.  5. Finally, I recommended the most relevant movies to the users of their interests. 6. Skills used - Core &amp; Advance Java, J2EE, JSP, JDBC, MySQL, Apache Tomcat, NetBeans, XAMPP Server.
